@@ -26,8 +26,8 @@ python main.py
 ## 🧠 Tech Stack
 
 - **Python**: Flask, OpenCV, dlib, sqlite3
-- **Frontend**: HTML/CSS for UI rendering
-- **NLP APIs** *(optional)*: Integration with Gemini or OpenAI for enhanced speech/text analysis
+- **Frontend**: HTML/Tailwind CSS for UI rendering
+- **NLP APIs** : Integration with Gemini or OpenAI for enhanced speech/text analysis
 
 ---
 
