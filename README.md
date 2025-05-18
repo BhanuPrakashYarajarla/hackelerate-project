@@ -11,6 +11,69 @@ Vaakpragna is an AI-driven platform designed to help users improve public speaki
 - 🗃️ **User Profiles**: Track progress and achievements using a local database.
 - 🥇 **Gamification**: Earn badges and certificates based on milestones.
 
+## 📁 Project Structure
+
+Vaakpragna/
+
+├── features/
+
+│ ├── init.py
+
+│ ├── debate_with_ai.py
+
+│ ├── shape_predictor_68_face_landmarks.dat
+
+│ ├── text_analyzer.py
+
+│ └── video_analyzer.py
+
+│
+├── static/
+
+│ ├── images/
+
+│ │ ├── dice.png
+
+│ │ └── vaaklogo.jpg
+
+│ ├── js/
+
+│ │ ├── auth.js
+
+│ │ ├── debate.js
+
+│ │ └── video-analyzer.js
+
+│ └── style.css
+
+│
+├── templates/
+
+│ ├── create_new_room.html
+
+│ ├── debate-with-ai.html
+
+│ ├── friend_vs_friend.html
+
+│ ├── index.html
+
+│ ├── leaderboard.html
+
+│ ├── login_signup.html
+
+│ ├── profile.html
+
+│ ├── text-analyzer.html
+
+│ └── video-analyzer.html
+
+│
+├── main.py
+
+├── requirements.txt
+
+└── users.db
+
 
 ## ⚙️ Installation
 
