@@ -1,4 +1,4 @@
-# 🗣️ Vaakpragna - AI-Powered Public Speaking & Debate Trainer
+# 🗣️ Vaakpragna - AI Communication Companion
 
 Vaakpragna is an AI-driven platform designed to help users improve public speaking and debate skills through real-time analysis and intelligent feedback. It includes facial gesture tracking, text and audio analysis, and an AI debate partner.
 
