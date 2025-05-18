@@ -110,3 +110,9 @@ python main.py
   - Badges earned
   - Certificate eligibility
 
+## 👥 Contributors
+
+- **Sree Harshini** – 🎨 UI Design and Brainstorming  
+- **Bhanu Prakash** – 🧠 Backend Development  
+- **Ranesh Chandra** – 💻 Frontend Development  
+
