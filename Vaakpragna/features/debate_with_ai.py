@@ -14,7 +14,7 @@ logger = logging.getLogger(__name__)
 
 debate_bp = Blueprint('debate', __name__, template_folder='../templates', static_folder='../static')
 
-genai.configure(api_key='AIzaSyAlpyIaKMRn7cVdJLAa5HU0xETAK9E3-08')
+genai.configure(api_key='AIzaSyBKLMeWZvyjoB0AXHY6MEIgCKT--vXe_LY')
 try:
     model = genai.GenerativeModel('gemini-1.5-flash')
 except Exception as e:
